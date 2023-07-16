@@ -7,7 +7,7 @@ The easiest way to measure fader spacing, ie. the distance from the
 middle of a fader track to the middle of the adjacent fader track, is
 to measure the width of sheet metal between two fader's cutouts and
 add the width of a /single/ fader cutout. If there are buttons or
-screw heads between faders, their size needs to taken into account.
+screw heads between faders, their size needs to be taken into account.
 
 
 ** Soundcraft FX16ii
