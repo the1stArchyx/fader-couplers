@@ -1,0 +1,29 @@
+* 3D-printable fader coupler
+
+This repository contains OpenSCAD sources for fader couplers that can
+be pushed on a pair of existing fader knobs, eg. on an analog audio
+mixer. The original purpose was to couple two mono channels for stereo
+operation on a Soundcraft FX16ii mixer.
+
+#+CAPTION: Fader couplers on a Soundcraft FX16ii mixer
+[[./doc/images/fx16-ii_couplers.jpg]]
+
+The source files can be adapted to fit practically any mixer
+imaginable. Existing renditions fit for the mixer mentioned above, for
+channel and bus faders, are available in OpenSCAD source and STL
+files for 3D-printing.
+
+Any new variations of these couplers brought to any maintainer of this
+repository will be added for subsequent free use. If you're not
+confident enough to modify the script yourself, you may open an issue
+with fader knob size, spacing, and clearance measurements to get help
+with creating a perfectly fitting coupler. However, printing
+tolerances may not be compensated for at scripting stage.
+
+
+* Trademarks
+
+Any trademarks, registered or not, current or expired, are used only
+for identification purposes. The contents of this repository has
+otherwise no relation of any kind to the past or current owners of
+trademarks mentioned.
