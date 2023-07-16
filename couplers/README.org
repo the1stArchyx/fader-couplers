@@ -3,10 +3,11 @@
 This document describes the features of the fader coupler designs
 already created.
 
-The easiest way to measure fader spacing is to measure the width of
-sheet metal between two fader's cutouts and add the width of a fader
-cutout. If there are buttons or screw heads between faders, their size
-needs to taken into account.
+The easiest way to measure fader spacing, ie. the distance from the
+middle of a fader track to the middle of the adjacent fader track, is
+to measure the width of sheet metal between two fader's cutouts and
+add the width of a /single/ fader cutout. If there are buttons or
+screw heads between faders, their size needs to taken into account.
 
 
 ** Soundcraft FX16ii
@@ -20,4 +21,4 @@ bus master faders. The measurements are as follows:
 : Spacing between channel faders  . . . . : 21.55 mm
 : Spacing between bus master faders . . . : 13.90 mm
 : Space reserved under the coupler  . . . :  4.00 mm
-: Space reserved around Stock fader knobs :  0.70 mm
+: Space reserved around stock fader knobs :  0.70 mm
