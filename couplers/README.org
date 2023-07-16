@@ -17,7 +17,6 @@ bus master faders. The measurements are as follows:
 : Stock fader knob width  . . . . . . . . : 11.40 mm
 : Stock fader knob length . . . . . . . . : 24.15 mm
 : Stock fader knob height . . . . . . . . : 10.30 mm
-:
 : Spacing between channel faders  . . . . : 21.55 mm
 : Spacing between bus master faders . . . : 13.90 mm
 : Space reserved under the coupler  . . . :  4.00 mm
